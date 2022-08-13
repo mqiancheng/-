@@ -1,4 +1,5 @@
 #!/usr/bin/env bash
+#教程地址https://www.tenlonstudio.com/2493.html?replytocom=667
 PATH=/bin:/sbin:/usr/bin:/usr/sbin:/usr/local/bin:/usr/local/sbin:~/bin
 export PATH
 
